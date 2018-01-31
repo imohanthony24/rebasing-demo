@@ -1,1 +1,2 @@
 this is a nice easy tutorial to demonstrate the power of git rebase.
+a new additional info has been added to the file. we now commit this and track the changes.
